@@ -1,0 +1,13 @@
+streamlit
+openai
+langchain-chroma
+langchain-huggingface
+langchain-core
+langchain-text-splitters
+rank_bm25
+nltk
+pdfplumber
+requests
+httpx
+tqdm
+python-telegram-bot
